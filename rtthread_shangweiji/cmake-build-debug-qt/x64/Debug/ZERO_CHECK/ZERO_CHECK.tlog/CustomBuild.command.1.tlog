@@ -1,0 +1,10 @@
+^E:\QT\RTTHREAD\RTTHREAD\CMAKE-BUILD-DEBUG-QT\CMAKEFILES\A546DF7A9C11F3780303D660B3C4CBCB\GENERATE.STAMP.RULE
+setlocal
+"D:\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -SE:/QT/rtthread/rtthread -BE:/QT/rtthread/rtthread/cmake-build-debug-qt --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/QT/rtthread/rtthread/cmake-build-debug-qt/Bank-rtthread.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

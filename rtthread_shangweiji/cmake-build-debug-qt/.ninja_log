@@ -1,0 +1,20 @@
+# ninja log v5
+15	506	7671950770544052	Bank-rtthread_autogen/mocs_compilation.cpp	832f35d4ce804baf
+15	506	7671950770544052	Bank-rtthread_autogen/timestamp	832f35d4ce804baf
+15	506	7671950770544052	E:/QT/rtthread/rtthread/cmake-build-debug-qt/Bank-rtthread_autogen/mocs_compilation.cpp	832f35d4ce804baf
+15	506	7671950770544052	E:/QT/rtthread/rtthread/cmake-build-debug-qt/Bank-rtthread_autogen/timestamp	832f35d4ce804baf
+536	3184	7671950797332981	CMakeFiles/Bank-rtthread.dir/mainwindow.cpp.obj	b8e279e36a1f35
+3702	8881	7671949611909653	CMakeFiles/Bank-rtthread.dir/main.cpp.obj	45088cfde63b75bb
+3578	8891	7671949612177686	CMakeFiles/Bank-rtthread.dir/Bank-rtthread_autogen/mocs_compilation.cpp.obj	a566b470c704df55
+3604	9443	7671949618011414	CMakeFiles/Bank-rtthread.dir/my_ui/serialport.cpp.obj	3bd71d1ea82572a2
+3185	4117	7671950806612992	Bank-rtthread.exe	afd76233eabf00fb
+27	1526	7671951056254948	build.ninja	6bf06c7c4ca51c09
+136	2831	7671951999199986	Bank-rtthread_autogen/timestamp	832f35d4ce804baf
+136	2831	7671951999199986	Bank-rtthread_autogen/mocs_compilation.cpp	832f35d4ce804baf
+136	2831	7671951999199986	E:/QT/rtthread/rtthread/cmake-build-debug-qt/Bank-rtthread_autogen/timestamp	832f35d4ce804baf
+136	2831	7671951999199986	E:/QT/rtthread/rtthread/cmake-build-debug-qt/Bank-rtthread_autogen/mocs_compilation.cpp	832f35d4ce804baf
+2904	6991	7671952043185470	CMakeFiles/Bank-rtthread.dir/main.cpp.obj	45088cfde63b75bb
+2832	7000	7671952043294465	CMakeFiles/Bank-rtthread.dir/Bank-rtthread_autogen/mocs_compilation.cpp.obj	a566b470c704df55
+2880	7039	7671952043697599	CMakeFiles/Bank-rtthread.dir/mainwindow.cpp.obj	b8e279e36a1f35
+2855	7231	7671952045610576	CMakeFiles/Bank-rtthread.dir/my_ui/serialport.cpp.obj	3bd71d1ea82572a2
+7231	8004	7671952053256576	Bank-rtthread.exe	afd76233eabf00fb

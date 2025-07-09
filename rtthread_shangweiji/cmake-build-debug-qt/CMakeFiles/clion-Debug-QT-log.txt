@@ -1,0 +1,6 @@
+"D:\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S E:\QT\rtthread\rtthread -B E:\QT\rtthread\rtthread\cmake-build-debug-qt
+-- Could NOT find WrapVulkanHeaders (missing: Vulkan_INCLUDE_DIR) 
+Debug Build
+-- Configuring done (0.9s)
+-- Generating done (0.1s)
+-- Build files have been written to: E:/QT/rtthread/rtthread/cmake-build-debug-qt

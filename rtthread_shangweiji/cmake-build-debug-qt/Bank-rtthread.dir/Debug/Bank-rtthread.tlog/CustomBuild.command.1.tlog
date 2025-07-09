@@ -1,0 +1,22 @@
+^E:\QT\RTTHREAD\RTTHREAD\CMAKE-BUILD-DEBUG-QT\CMAKEFILES\D90E5F43CA3DC5624DE0404A29F7D8B0\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd E:\QT\rtthread\rtthread\cmake-build-debug-qt
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\QT\RTTHREAD\RTTHREAD\CMAKELISTS.TXT
+setlocal
+"D:\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -SE:/QT/rtthread/rtthread -BE:/QT/rtthread/rtthread/cmake-build-debug-qt --check-stamp-file E:/QT/rtthread/rtthread/cmake-build-debug-qt/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

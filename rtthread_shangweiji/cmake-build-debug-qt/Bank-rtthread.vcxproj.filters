@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\QT\rtthread\rtthread\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\QT\rtthread\rtthread\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\QT\rtthread\rtthread\my_ui\serialport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\QT\rtthread\rtthread\my_ui\serialport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_Debug\my_ui\ui_serialport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_Release\my_ui\ui_serialport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_MinSizeRel\my_ui\ui_serialport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\include_RelWithDebInfo\my_ui\ui_serialport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\CMakeFiles\d90e5f43ca3dc5624de0404a29f7d8b0\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\QT\rtthread\rtthread\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\QT\rtthread\rtthread\mainwindow.ui" />
+    <None Include="E:\QT\rtthread\rtthread\my_ui\serialport.ui" />
+    <None Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\autouic_Debug.stamp" />
+    <None Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\autouic_Release.stamp" />
+    <None Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="E:\QT\rtthread\rtthread\cmake-build-debug-qt\Bank-rtthread_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{26AFEF7D-4D42-33C1-84A7-073997FE2FB2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B7CDDEE3-F447-33ED-8F32-AA07960A594C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D8E84E34-ADA1-30BD-B961-C2C6C150A6F4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
