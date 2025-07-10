@@ -1,1 +1,1 @@
-上位机+RT-thread stdio开发
+上位机+RT-thread studio开发
